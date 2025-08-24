@@ -1,0 +1,15 @@
+pdfplumber
+wordfreq
+wordninja
+wordsegment
+
+langchain-community 
+pypdf
+pdfminer.six
+unstructured
+pandas
+# camelot
+pillow-heif
+unstructured[pdf]
+faiss-cpu
+sentence-transformers
